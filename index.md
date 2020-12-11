@@ -1,8 +1,8 @@
-## Welcome to Longwei Guo's Pages!
+# Welcome to Longwei Guo's Pages!
 
 ## My Repos
-Below are my repos on Github. Some of them are class projects and others are my small demos.
-  Thank you~
+### Below are my repos on Github. Some of them are class projects and others are my small demos.
+### Thank you~
 
 {% assign orderedRepos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 {% for repository in orderedRepos %}
