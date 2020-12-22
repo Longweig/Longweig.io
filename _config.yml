@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+description: Longwei Guo's personal page!
 plugins:
   - jekyll-octicons
